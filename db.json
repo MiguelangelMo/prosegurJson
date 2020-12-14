@@ -17,7 +17,7 @@
             "motivo_demissao": "B12N3",
             "reg": "BF5VO",
             "div": "V123",
-            "centro-costo": "CV940"
+            "centro_costo": "CV940"
         },
         {
             "id": 212234,
